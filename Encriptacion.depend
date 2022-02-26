@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644388645 source:c:\users\alan mejia\desktop\encriptacion\encriptacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
